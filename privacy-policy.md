@@ -1,3 +1,8 @@
+---
+layout: default
+title: プライバシーポリシー
+---
+
 # MATAGI プライバシーポリシー
 
 | 項目 | 内容 |
